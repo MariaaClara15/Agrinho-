@@ -6,3 +6,14 @@
   max-width: 100%;
   height: auto;
 }
+.centro-tela {
+  display: flex;
+  justify-content: center;  /* centraliza na horizontal */
+  align-items: center;      /* centraliza na vertical */
+  height: 100vh;            /* ocupa 100% da altura da tela */
+}
+
+.centro-tela img {
+  width: 300px;             /* ou outro tamanho */
+  height: auto;
+}

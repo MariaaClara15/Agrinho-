@@ -6,14 +6,4 @@
   max-width: 100%;
   height: auto;
 }
-.centro-tela {
-  display: flex;
-  justify-content: center;  
-  align-items: center;      
-  height: 100vh;            
-}
 
-.centro-tela img {
-  width: 300px;             
-  height: auto;
-}

@@ -1,0 +1,8 @@
+.img-centralizada {
+  text-align: center;
+}
+
+.img-centralizada img {
+  max-width: 100%;
+  height: auto;
+}

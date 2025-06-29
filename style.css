@@ -8,12 +8,12 @@
 }
 .centro-tela {
   display: flex;
-  justify-content: center;  /* centraliza na horizontal */
-  align-items: center;      /* centraliza na vertical */
-  height: 100vh;            /* ocupa 100% da altura da tela */
+  justify-content: center;  
+  align-items: center;      
+  height: 100vh;            
 }
 
 .centro-tela img {
-  width: 300px;             /* ou outro tamanho */
+  width: 300px;             
   height: auto;
 }

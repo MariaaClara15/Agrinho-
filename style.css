@@ -1,4 +1,3 @@
-<div style="background-color:#ffcc00; padding: 20px;">
-  <h2>Seção verde claro</h2>
-  <p>Este é um exemplo de fundo verde claro.</p>
-</div>
+body{
+  background-color: aqua;
+}
